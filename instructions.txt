@@ -1,0 +1,11 @@
+Step 1:
+    First open Terminal and type "pip install -r requirements.txt"
+Step 2:
+    Install the python and Live Server by Ritwick Dey Extention in the Extention tab
+Step 3:
+    Run this command in the terminal "python app.py"
+Step 4:
+    Later Right-Click on the index.html file (frontend > index.html) and click on "Open with Live Server"
+Step 5:
+    Enjoy the Web App
+    
